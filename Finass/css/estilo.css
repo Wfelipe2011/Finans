@@ -1,0 +1,26 @@
+#home {
+	background: #ffc107;
+	color: white;
+}
+
+.branco {
+	color: white;
+}
+
+.caixa {
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a {
+	margin: 5px 15px;
+}
+
+footer div a i {
+	font-size: 25px;
+
+}
+
+footer div a  {
+	margin-left: 5px;
+}
