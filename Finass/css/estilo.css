@@ -1,11 +1,13 @@
 #home {
 	background: #ffc107;
+	width: 100%;
 	color: white;
 }
 
 .branco {
 	color: white;
 }
+
 
 .caixa {
 	padding: 60px 0;
@@ -23,4 +25,26 @@ footer div a i {
 
 footer div a  {
 	margin-left: 5px;
+}
+
+
+@media (max-width: 376px){
+	.small input{
+		width: 100%;
+		
+		
+	}
+	.container2 div , p{
+		font-size: 17px;
+		
+
+	}
+
+	.container2 div h1 {
+		font-weight: bold;
+		text-align: center;
+		font-size: 25px;
+
+	}
+	
 }
